@@ -1,0 +1,6 @@
+{
+  "name": "StudentOS",
+  "description": "Personal Productivity & Student Operating System for Software Engineering, AI studies, recurring daily habits, projects, notes, and goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
